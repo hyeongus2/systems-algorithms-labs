@@ -4,9 +4,9 @@
 
 | 경로 | 배경 |
 |---|---|
-| `riscv-cpu-cache/` | 2021년 가을 컴퓨터구조 EE312, Lab 1–6 |
-| `digital-systems/hw3/`, `hw5/` | 2020년 봄 디지털시스템 EE303 |
-| `software-tools/` | 2021년 가을 최신 SW 개발환경·도구 EE485A, 삽입정렬 디버깅과 간이 셸 |
+| `riscv-cpu-cache/` | 2021년 가을 컴퓨터구조개론(EE312), Lab 1–6 |
+| `digital-systems/hw3/`, `hw5/` | 2020년 봄 디지털시스템(EE303) |
+| `software-tools/` | 2021년 가을 최신 SW 개발환경·도구(EE485A), 삽입정렬 디버깅과 간이 셸 |
 | `tests/` | C 경계 입력, HDL 정적 분석과 단위 testbench |
 
 컴퓨터구조·디지털시스템 구현은 수업 skeleton의 모듈 인터페이스와 일부 기본 부품을 사용합니다. 제공 memory/register/clock 모델, 공식 testbench와 프로그램 입력은 저장소에 포함하지 않습니다. 자판기 상수 헤더는 모듈의 차원과 대기시간을 정의합니다. 수업 제공 부분의 권리는 해당 저작자에게 있습니다.

@@ -11,7 +11,7 @@ Verilog로 조합·순차회로와 RISC-V CPU·cache를 구현한 학업 프로�
 | `riscv-cpu-cache/lab3-single-cycle/`, `lab4-multi-cycle/` | Instruction decode, ALU, branch, 즉시값과 datapath |
 | `riscv-cpu-cache/lab5-pipeline/`, `lab6-cache/` | Pipeline register, forwarding, branch prediction, cache |
 | `digital-systems/` | Mux, majority, population count, 5-state FSM |
-| `software-tools/` | 부록: EE485A의 삽입정렬 디버깅과 간이 셸 실습 |
+| `software-tools/` | 부록: 최신 SW 개발환경·도구(EE485A)의 삽입정렬과 간이 셸 |
 | `tests/` | C 경계 입력 검사, HDL 정적 분석과 testbench |
 
 교과 실습의 모듈 인터페이스와 기본 부품을 바탕으로 연산·제어·datapath를 구현했습니다. [구현 배경과 설계 메모](docs/provenance.md)에 과목별 구성과 주요 경계 조건을 설명했습니다.
@@ -48,7 +48,7 @@ HDL의 일부 `case` 기본분기·형 변환 경고는 검사 출력에 표시�
 
 관련 학습 내용은 [자료구조·경로탐색](docs/algorithms.md)에도 정리했습니다.
 
-## 부록: EE485A C 실습
+## 부록: 최신 SW 개발환경·도구(EE485A) C 실습
 
 SW 개발환경·도구 실습의 삽입정렬과 간이 셸입니다. Linux 또는 macOS의 C11 compiler를 사용하며, `mini_shell.c`는 POSIX 환경이 필요합니다.
 
