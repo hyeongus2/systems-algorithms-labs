@@ -1,0 +1,13 @@
+build/
+*.o
+*.obj
+*.exe
+*.vvp
+*.vcd
+*.dmp
+__pycache__/
+.venv/
+.env
+.env.*
+.DS_Store
+Thumbs.db
